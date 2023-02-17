@@ -1,7 +1,7 @@
 Hi 👋 My name is Jean
 ==========================
 
-Full Stack Software Developer
+Full Stack Web Developer
 -----------------------------
 
 ### Skills
