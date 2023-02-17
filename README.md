@@ -4,6 +4,15 @@ Hi 👋 My name is Jean
 Full Stack Web Developer
 -----------------------------
 
+Passionate about technology and eager to learn new things! I'm always seeking to improve my skills in programming and web development. I enjoy working on personal projects and contributing to open source communities. Let's connect and share our knowledge!
+
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [jean.csf.17@gmail.com](mailto:jean.csf.17@gmail.com)
+* 🚀  I'm currently trainee on [CRF-SP](https://www.crfsp.org.br/)
+* 🧠  Learning React.js 
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  Average COD player 😁
+
 ### Skills
 
 <p align="left">
@@ -31,3 +40,5 @@ Full Stack Web Developer
 <a href="https://github.com/JeanCSF" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCSF&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/JeanCSF"><img src="https://github-readme-stats.vercel.app/api?username=jeancsf&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="JeanCSF's GitHub stats" /></a>
+
+#### You can ask me anything. If i don't know, give me some time and i get you the answer!
