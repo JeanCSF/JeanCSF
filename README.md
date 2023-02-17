@@ -10,7 +10,6 @@ Passionate about technology and eager to learn new things! I'm always seeking to
 * ✉️  You can contact me at [jean.csf.17@gmail.com](mailto:jean.csf.17@gmail.com)
 * 🚀  I'm currently trainee on [CRF-SP](https://www.crfsp.org.br/)
 * 🧠  Learning React.js 
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  Average COD player 😁
 
 ### Skills
