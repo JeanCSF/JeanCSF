@@ -9,7 +9,6 @@ Passionate about technology and eager to learn new things! I'm always seeking to
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [jean.csf.17@gmail.com](mailto:jean.csf.17@gmail.com)
 * 🚀  I'm currently trainee on [CRF-SP](https://www.crfsp.org.br/)
-* 🧠  Learning React.js 
 * ⚡  Average COD player 😁
 
 ### Skills
