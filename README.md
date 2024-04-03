@@ -8,7 +8,6 @@ Passionate about technology and eager to learn new things! I'm always seeking to
 
 * 🌍 I'm based in São Paulo, Brazil
 * ✉️ You can contact me at [jean.csf.17@gmail.com](mailto:jean.csf.17@gmail.com)
-* 🚀 I'm currently trainee on [CRF-SP](https://www.crfsp.org.br/)
 * ⚡ Average COD player 😁
 
 <br>
@@ -45,7 +44,6 @@ Passionate about technology and eager to learn new things! I'm always seeking to
 <br>
 <p>
     <a href="https://www.linkedin.com/in/jean-carlos-6149a2232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="https://github.com/JeanCSF" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
     <a href="https://www.instagram.com/cocao.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 <br>
