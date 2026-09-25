@@ -45,8 +45,18 @@ Passionate about technology and eager to learn new things! I'm always seeking to
 <b>My GitHub Stats:</b>
 
 <br>
-<a href="https://github.com/JeanCSF" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCSF&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JeanCSF" align="right">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeanCSF&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages"
+    alt="Top Languages"
+  />
+</a>
 
-<a href="http://www.github.com/JeanCSF"><img src="https://github-readme-stats.vercel.app/api?username=jeancsf&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="JeanCSF's GitHub stats" /></a>
+<a href="https://github.com/JeanCSF">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=JeanCSF&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true"
+    alt="JeanCSF's GitHub stats"
+  />
+</a>
 
 #### You can ask me anything. If i don't know, give me some time and i get you the answer!
